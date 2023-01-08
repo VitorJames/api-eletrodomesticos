@@ -3,7 +3,7 @@
 ## 1 - Instalar dependências
 ### composer install
 ## 2 - Environment
-### Criar uma copia do arquivo .env.exaple e renomear para .env
+### Criar uma cópia do arquivo .env.example e renomear para .env
 ## 3 - Rodar migrations
 ### php artisan migrate
 ## 4 - Rodar o projeto
