@@ -1,5 +1,5 @@
 {
-    "name": "api-eletrodomesticos",
+    "name": "laravel/laravel",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
