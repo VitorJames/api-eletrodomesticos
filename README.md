@@ -8,3 +8,4 @@
 ### php artisan migrate
 ## 4 - Rodar o projeto
 ### php artisan serve
+## >> Teste de requisições no arquivo Insomnia_eletrodomesticos.json
